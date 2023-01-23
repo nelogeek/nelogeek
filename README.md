@@ -66,7 +66,7 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
   <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/photoshop-plain.svg" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 
 
 
@@ -77,9 +77,11 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelogeek)](https://github.com/nelogeek/github-readme-stats)
 
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nelogeek&theme=onedark)](https://github.com/nelogeek/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=nelogeek)
+---
 
 
 
@@ -96,4 +98,7 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nelogeek&theme=solarized_dark)
+
+---
+![](https://komarev.com/ghpvc/?username=nelogeek)
 
