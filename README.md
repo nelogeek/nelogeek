@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder.webp" width="100"/>
 </div>
 
-<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 <a href="" target="_blank">𝓝𝓮𝓵𝓸𝓰𝓮𝓮𝓴</a> 
+<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 <a href="https://github.com/nelogeek" target="_blank">𝓝𝓮𝓵𝓸𝓰𝓮𝓮𝓴</a> 
 <img src="https://github.com/nelogeek/nelogeek/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, game and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
 
