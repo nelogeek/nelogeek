@@ -1,8 +1,4 @@
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
-</p>
 
 <div id="header" align="center">
   <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder.webp" width="100"/>
@@ -57,6 +53,12 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 ---
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
+</p>
+
+<br>
 
 
 
