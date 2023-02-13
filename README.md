@@ -53,12 +53,8 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 ---
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
-</p>
 
-<br>
+
 
 
 
@@ -90,5 +86,8 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nelogeek&theme=solarized_dark)
 
 ---
-![](https://komarev.com/ghpvc/?username=nelogeek)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
+</p>
 
