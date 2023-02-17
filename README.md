@@ -51,7 +51,12 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 </div>
 
 ---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
+</p>
 
+---
 
 
 
@@ -95,10 +100,4 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 
 <!-- BLOG-POST-LIST:END -->
 
----
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
-</p>
 
----
