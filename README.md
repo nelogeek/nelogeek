@@ -58,6 +58,8 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 
 
 
+
+### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelogeek&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats) 
 
 
@@ -86,8 +88,14 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nelogeek&theme=solarized_dark)
 
 ---
+
+
+### :writing_hand: Blog Posts :
+
+---
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nelogeek/count.svg" />
 </p>
 
+---
