@@ -91,6 +91,9 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 
 
 ### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 <p align="center"> 
