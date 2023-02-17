@@ -92,12 +92,4 @@ I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nelogeek&theme=solarized_dark)
 
----
-
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 
