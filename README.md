@@ -20,13 +20,13 @@
 
 I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder3.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building applications.
+- :telescope: I’m working as a Developer and contributing to backend and frontend for building applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I create games and read tech articles.
+- :zap: In my free time, I create games, read technical articles, and develop my own IT products.
 
-- :mailbox:How to reach me: ...
+- :mailbox:How to reach me: t.me/nelogeek
 
 ---
 
